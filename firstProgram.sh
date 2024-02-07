@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 echo "Ronit Jadhav"
 echo " Nihal Jadhav"
 echo "welcome to home"
